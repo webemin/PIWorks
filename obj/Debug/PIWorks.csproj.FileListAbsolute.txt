@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\PIWorks\bin\Debug\PIWorks.exe.config
+C:\Users\muham\Desktop\PIWorks\bin\Debug\PIWorks.exe
+C:\Users\muham\Desktop\PIWorks\bin\Debug\PIWorks.pdb
+C:\Users\muham\Desktop\PIWorks\obj\Debug\PIWorks.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\PIWorks\obj\Debug\PIWorks.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\PIWorks\obj\Debug\PIWorks.exe
+C:\Users\muham\Desktop\PIWorks\obj\Debug\PIWorks.pdb
